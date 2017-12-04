@@ -1,0 +1,27 @@
+
+<div class="container-fluid">   
+        <div class="Row">
+    <div class = "page-header">
+            <h3>
+            User Story Reader - 
+            <small>Custom Grid Component</small>
+            </h3>
+    </div> 
+</div>
+<div class="container-fluid">   
+    <div class="Row">
+        <div class="col-md-12">
+            <data-grid [rows]="userData" [columns]="columns" [pageSize]="pageSize" (datagridEvent)="datagridEvent($event)">
+            </data-grid>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">   
+        <div class="Row">
+    <div class = "page-footer pull-right">
+            <h3>
+                <small>Need to Place Path for Plunker</small>
+            </h3>
+    </div> 
+</div>
