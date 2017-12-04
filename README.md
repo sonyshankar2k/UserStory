@@ -12,7 +12,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 7) location of git hub and plnkr are listed below
      https://plnkr.co/edit/0uiPme1aPp7VqjIvqt1b?p=preview
      https://github.com/sonyshankar2k/UserStory
-Note:- I didn't get a chance to work on this till thursday. I travel to texas during weekend since my family lives here.
+Note:- I didn't get a chance to work on this till thursday. My week days are hectic with travel. I just wanted to give you the reason why I took to respond in the 6 days.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
