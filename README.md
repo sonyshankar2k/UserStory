@@ -1,6 +1,14 @@
-# TestApp
+# UserStory
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+
+##Installation & Instructions
+1) download or use git/bash to get the code into local repository
+2) type 'npm install' to get all node modules
+2) type 'ng build' and 'ng start' in editor's terminal
+3) if it is throwing error then install angular-cli and 'npm update'
+4) then retry the step 3
+5) another option is to run 'npm start'
 
 ## Development server
 
