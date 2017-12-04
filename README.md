@@ -5,11 +5,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##Installation & Instructions
 1) download or use git/bash to get the code into local repository
 2) type 'npm install' to get all node modules
-2) type 'ng build' and 'ng start' in editor's terminal
-3) if it is throwing error then install angular-cli and 'npm update'
-4) then retry the step 3
-5) another option is to run 'npm start'
-
+3) type 'ng build' and 'ng start' in editor's terminal
+4) if it is throwing error then install angular-cli and 'npm update'
+5) then retry the step 3
+6) another option is to run 'npm start'
+7) location of git hub and plnkr are listed below
+     https://plnkr.co/edit/0uiPme1aPp7VqjIvqt1b?p=preview
+     https://github.com/sonyshankar2k/UserStory
+Note:- I didn't get a chance to work on this till thursday. I travel to texas during weekend since my family lives here.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
